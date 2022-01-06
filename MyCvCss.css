@@ -1,0 +1,236 @@
+body{ border:15px solid #C11B17; 
+    margin-left:50; 
+	margin-right:50; 
+	padding:10px; 
+ }
+ /*----------------------------Resume Title Section------------*/
+.title{ background:#C11B17;
+    color:white; 
+	text-decoration:bold; 
+	text-align:center; 
+	font-size:25px; 
+	height:24px; 
+	padding:7px; 
+ }
+	 /*----------------------------Image Section------------*/
+img{ margin-top:1px; 
+    border-radius:8px;
+	float:left;
+	height:160px;
+ }
+  /*----------------------------My Information Section------------*/
+.info{
+	
+	border:2px solid #C11B17;
+	float:left;
+	width:95%;
+	margin-top:-15px;
+	
+}
+ .detl{
+	 float:left;
+	 margin-left:150px;
+	 line-height:1.9em;
+	 font-size:17;
+ }
+  .detr{
+	 float:right;
+	 line-height:1.9em;
+	 margin-right:300px;
+	 font-size:17;
+ }
+ /*----------------------------Headings Section------------*/
+ .objhead{ 
+     background:#C11B17; 
+     color:white; 
+	 margin-top:180px;
+	 text-decoration:bold; 
+     text-align:left; 
+     font-size:22px; 
+	 width:30%;
+	 height:23px;
+	 border-radius:15px;
+	 padding:6px;
+}.objhead:hover{background:#00FFFF; color:red; transform:translatex(15px); transition:eas-in-out 3s;}
+ 
+
+.objp{ background:white; 
+     color:Black; 
+	 text-decoration:italic; 
+	 width:70%;
+	 font-size:20;
+	 margin-top:-9px;
+	 margin-left:7em;
+}
+
+/*------------------------Education Sections-----------------*/
+.eduhead{ 
+     background:#C11B17; 
+     color:white; 
+	 text-decoration:bold; 
+     text-align:left; 
+     font-size:22px; 
+	 width:30%;
+	 height:23px;
+	 border-radius:15px;
+	 padding:6px;
+	 margin-top:-1px;
+}.eduhead:hover{background:#00FFFF; color:red; transform:translatex(15px); transition:eas-in-out 3s;}
+.edul{
+	border:2px solid white;
+	float:left;
+	width:30%;
+    padding:6px;
+	line-height:.2em;
+	color:red;
+	height:380px;
+}
+.edul p{  border-radius:15px; text-align:center; color:white; padding-top:4px; background:#7F5A58; height:15px; width:60%;}
+.edul p:hover{  border-radius:15px; text-align:center; text-decoration:bold; color:yellow;  padding-top:4px; background:#008000; height:15px; width:60%; transform:translatex(15px); transition:eas-in-out 3s;}
+
+.educ{
+	border:2px solid white;
+	height:380px;
+	color:red;
+	float:left;
+	width:30%;
+	line-height:.2em;
+	padding:6px;
+}
+.educ p{   border-radius:15px; text-align:center; color:white; padding-top:4px; background:#7F5A58; height:15px; width:60%;}
+.educ p:hover{  border-radius:15px; text-align:center; text-decoration:bold; color:#FFA500;  padding-top:4px; background:#008000; height:15px; width:60%; transform:scale(1.1); transition:eas-in-out 3s;}
+
+.edur{
+	border:2px solid white;
+	height:380px;
+	float:right;
+	width:36%;
+	line-height:1.8em;
+	padding:6px;
+}
+.edur h3{ color:red;}
+/*----------------------------------------------------Profassional Skills Sections-----------------*/
+ .pskills{ 
+     background:#C11B17; 
+     color:white; 
+	 text-decoration:bold; 
+     text-align:left; 
+     font-size:22px; 
+	 width:30%;
+	 height:23px;
+	 border-radius:15px;
+	 padding:6px;
+	 float:left;
+	
+ }.pskills:hover{background:#00FFFF; color:red; transform:translatex(15px); transition:eas-in-out 3s;}
+.slist{
+	border:2px solid white ;
+	margin-top:490px;
+	margin-left:20px;
+	width:40%;
+	line-height:1.1em;
+	padding:20px;
+	color:#C24641;
+	font-size:18px;
+	list-style-type:square;
+	
+}
+/*-----------------------------------------------------Experience Sections-----------------*/
+.xphead{ 
+     background:#C11B17; 
+     color:white; 
+	 text-decoration:bold; 
+     text-align:left; 
+     font-size:22px; 
+	 width:30%;
+	 height:23px;
+	 border-radius:15px;
+	 padding:6px;
+	 float:left;
+	
+}.xphead:hover{background:#00FFFF; color:red; transform:translatex(15px); transition:eas-in-out 3s;}
+.xpl{
+	border:2px solid white;
+	
+	width:30%;
+	margin-top:70;
+    padding:6px;
+	line-height:.2em;
+	color:red;
+	height:200px;
+}.xpl p:hover{  border-radius:15px; text-align:center; text-decoration:bold; color:yellow;  padding-top:4px; background:#008000; height:15px; width:60%; transform:translatex(15px); transition:eas-in-out 3s;}
+
+.xpl p{  border-radius:15px; text-align:center; color:white; padding-top:4px; background:#7F5A58; height:15px; width:60%;}
+.xpc{
+	border:2px solid white;
+	height:200px;
+	color:red;
+	margin-top:-216;
+	margin-left:376px;
+	width:30%;
+	line-height:.2em;
+	padding:6px;
+}
+.xpc p{   border-radius:15px; text-align:center; color:white; padding-top:4px; background:#7F5A58; height:15px; width:60%;}
+.xpr{
+	border:2px solid white;
+	height:200px;
+	float:right;
+	width:36%;
+	margin-top:-216;
+	line-height:1.4em;
+	padding:6px;
+}
+.xpc p:hover{  border-radius:15px; text-align:center; text-decoration:bold; color:#FFA500;  padding-top:4px; background:#008000; height:15px; width:60%; transform:scale(1.1); transition:eas-in-out 3s;}
+
+.xpr h3{ color:red;}
+ /*--------------------------------------------------------Language Sections-----------------*/
+ .langhead{ 
+     background:#C11B17; 
+     color:white; 
+	 text-decoration:bold; 
+     text-align:left; 
+     font-size:22px; 
+	 width:30%;
+	 height:23px;
+	 border-radius:15px;
+	 padding:6px;
+	 float:left;
+ }.langhead:hover{background:#00FFFF; color:red; transform:translatex(15px); transition:eas-in-out 3s;}
+.langlist{
+	border:2px solid white ;
+	margin-top:60px;
+	margin-left:20px;
+	width:40%;
+	line-height:1.1em;
+	padding:20px;
+	color:#C24641;
+	font-size:18px;
+	list-style-type:square;
+	
+}
+ /*--------------------------------------------------------Refrence Sections-----------------*/
+ .refhead{ 
+     background:#C11B17; 
+     color:white; 
+	 text-decoration:bold; 
+     text-align:left; 
+     font-size:22px; 
+	 width:30%;
+	 height:23px;
+	 border-radius:15px;
+	 padding:6px;
+	 float:left;
+	 margin-top:-10px;
+	 
+ }.refhead:hover{background:#00FFFF; color:red; transform:translatex(15px); transition:eas-in-out 3s;}
+
+.refdetail{ background:white; 
+     color:Black; 
+	 font-size:22;
+	 text-decoration:italic; 
+	 width:70%;
+	 margin-top:70px;
+     text-align:left;
+	 margin-left:5px;
+}
